@@ -24,7 +24,7 @@ The dataset includes comprehensive details of car sales transactions, covering a
 - A significant majority of car buyers are male, accounting for 78.6% of our dataset.
 - Annual income analysis shows that individuals earning between [500,000 and 1,000,000] and [1,000,000 and 3,000,000] are most likely to purchase cars.
 ![Sales Chart](assets/gender.png)
-![Sales Chart](assets/income.png)
+![Sales Chart](assets/incom.png)
 
 ### Preferences
 - Automatic transmission is preferred over manual by both male and female customers.
