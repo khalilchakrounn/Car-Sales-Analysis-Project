@@ -29,17 +29,17 @@ The dataset includes comprehensive details of car sales transactions, covering a
 ### Preferences
 - Automatic transmission is preferred over manual by both male and female customers.
 - SUVs and Hatchbacks are the most favored body styles among customers.
-![Sales Chart](transmission_gender.png)
-![Sales Chart](style.png)
+![Sales Chart](assets/transmission_gender.png)
+![Sales Chart](assets/style.png)
 
 ### Model Popularity by Company
 - The most popular models for Nissan is Pathfinder. we can also see all the models for all companies in the code. below is the example for nissan
-![Sales Chart](nissan_models.png)
+![Sales Chart](assets/nissan_models.png)
 
 ### Pricing and Expense Analysis
 - The analysis provides a list of the most expensive models, offering insights into the premium segment.
 - The division of the dataset into income categories helps further understand customer buying power and preferences.
-![Sales Chart](expensive_models.png)
+![Sales Chart](assets/expensive_models.png)
 
 ### Clustering and Predictive Modeling
 - Using the Elbow method, we identified that the optimal number of clusters for our data is 3, based on the variance drop rate.
