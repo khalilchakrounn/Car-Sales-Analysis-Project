@@ -1,5 +1,6 @@
 # Car Sales Analysis Project
 
+kaggle Link: https://www.kaggle.com/datasets/missionjee/car-sales-report/code 
 ## Project Overview
 This project aims to analyze car sales data to uncover insights into customer preferences, sales trends, and performance metrics across different car models, companies, and styles. Through rigorous data analysis, we have explored various aspects of the data, including sales distribution among models and companies, customer demographics, and predictive modeling to forecast sales.
 
